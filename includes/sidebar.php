@@ -24,7 +24,13 @@
                     <span><i class="fa fa-graduation-cap"></i></span>
                     <span>Campus</span>
                 </a>
-              </li>  
+              </li> 
+              <li>
+                <a href="contactus.php">
+                <span><i class="fa fa-envelope"></i></span>
+                    <span>Messages</span>
+                </a>
+              </li> 
             </ul>
 
         </nav>

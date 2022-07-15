@@ -11,6 +11,3 @@ while ($fetchRecord = mysqli_fetch_array($sql)){
    
     echo $fetchRecord['fullname'].$fetchRecord['phonenumber'].$fetchRecord['email'].$fetchRecord['id'];
 }
-
-
-?>
